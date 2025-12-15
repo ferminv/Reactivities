@@ -477,3 +477,5 @@ $RECYCLE.BIN/
 *.lnk
 API/appsettings.json
 API/reactivities.db
+client/src/features/activities/dashboard/ActivityCard.tsx
+API/reactivities.db-wal
